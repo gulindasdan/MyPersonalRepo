@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gülin Daşdan</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Navlungo**
+| 🔭 I’m currently working on **Navlungo**<br>📫 How to reach me **gulindasdann@gmail.com** | <a href="https://instagram.com/gulindasdan" target="_blank"><img align="center" src="https://github.com/gulindasdan/gulindasdan/blob/master/developer.gif" alt="gulindasdan" height="150" width="150" /></a> |
+|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
 
-- 📫 How to reach me **gulindasdann@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
