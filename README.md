@@ -4,6 +4,12 @@
 | 🔭 I’m currently working on **Navlungo**<br>📫 How to reach me **gulindasdann@gmail.com** | <a href="https://instagram.com/gulindasdan" target="_blank"><img align="center" src="https://github.com/gulindasdan/gulindasdan/blob/master/developer.gif" alt="gulindasdan" height="150" width="150" /></a> |
 |:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
 
+<h4>
+• Developing enterprise-level e-commerce | fulfillment platform serving logistics operations | </br>
+• Implementing Clean Architecture with DDD | principles for complex order management workflows </br>
+• Building scalable microservices handling | thousands of orders daily with event-driven | architecture </br>
+• Leading CQRS implementation using MediatR | with comprehensive validation and authorization pipelines
+</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
